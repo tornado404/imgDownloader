@@ -1,7 +1,7 @@
 package main
 
 import (
-	"imgDownloader/down"
+	"github.com/tornado404/imgDownloader/down"
 	"path/filepath"
 )
 

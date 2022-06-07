@@ -4,7 +4,7 @@ import (
 	"flag"
 	"fmt"
 	_ "github.com/sirupsen/logrus"
-	_ "imgDownloader/down"
+	_ "github.com/tornado404/imgDownloader/down"
 	"os"
 	"path/filepath"
 )
