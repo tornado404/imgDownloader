@@ -1,4 +1,4 @@
-package main
+package imgDownloader
 
 import (
 	"github.com/tornado404/imgDownloader/down"
